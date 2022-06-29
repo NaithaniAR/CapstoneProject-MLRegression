@@ -1,7 +1,7 @@
 # NYC Taxi Trip Duration
 
 # DOMAIN: Transportation
-# NYC Taxi Trip Duration
+
 # By Arnav Naithani - 30 June April, 2022
 
 
