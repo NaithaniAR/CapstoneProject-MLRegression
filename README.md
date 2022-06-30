@@ -54,6 +54,14 @@ File descriptions :
 
 ## Objective:
 ### Build a model that predicts the total trip duration of taxi trips in New York City.
+Fitting different models
+For modeling, we tried various classification algorithms like:
+Linear regression with regularization (Lasso & Ridge)
+Decision Tree
+Random Forest regression
+XG boost
+Gradient Boosting
+
 
 ## Model Performance:
 ![image](https://github.com/NaithaniAR/NYC-Taxi-Trip-Time-Prediction---Capstone-Project.ipynb/blob/52a2dbc0cb5edf2fba8b1e59162c105731a18031/Images/regression.PNG)
