@@ -51,9 +51,9 @@ File descriptions :
 ![image](https://github.com/NaithaniAR/NYC-Taxi-Trip-Time-Prediction---Capstone-Project.ipynb/blob/f180cf4e2487fd883d2601017d180914afadd2bb/Images/Dropoff%20.PNG)
 
 
-https://github.com/NaithaniAR/NYC-Taxi-Trip-Time-Prediction---Capstone-Project.ipynb/blob/52a2dbc0cb5edf2fba8b1e59162c105731a18031/Images/regression.PNG
+
 ## Objective:
 ### Build a model that predicts the total trip duration of taxi trips in New York City.
 
 ## Model Performance:
-![image]((https://github.com/NaithaniAR/NYC-Taxi-Trip-Time-Prediction---Capstone-Project.ipynb/blob/52a2dbc0cb5edf2fba8b1e59162c105731a18031/Images/regression.PNG))
+![image](https://github.com/NaithaniAR/NYC-Taxi-Trip-Time-Prediction---Capstone-Project.ipynb/blob/52a2dbc0cb5edf2fba8b1e59162c105731a18031/Images/regression.PNG)
